@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="form">Form</string>
+    <string name="ssn">SSN :</string>
+    <string name="add">Add</string>
+</resources>
